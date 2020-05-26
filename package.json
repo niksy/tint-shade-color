@@ -1,6 +1,6 @@
 {
   "name": "tint-shade-color",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tint or shade color.",
   "main": "index.cjs.js",
   "module": "index.esm.js",
