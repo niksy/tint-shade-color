@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "is-hexcolor": "^1.0.0",
-    "mout": "^1.2.2"
+    "mout": "^1.2.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
